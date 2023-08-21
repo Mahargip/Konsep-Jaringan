@@ -81,7 +81,7 @@
   <li>
     Physical 
     <div>
-    Ini adalah lapisan terbawah yang bertanggung jawab atas transmisi sinyal fisik melalui media komunikasi.
+    Ini adalah lapisan terbawah yang bertanggung jawab atas transmisi sinyal fisik melalui media komunikasi, seperti kabel dan gelombang radio. Lapisan ini mengatur detail teknis seperti tegangan, frekuensi, dan jenis koneksi fisik antara perangkat.
     </div>
   </li>
 </ul>
