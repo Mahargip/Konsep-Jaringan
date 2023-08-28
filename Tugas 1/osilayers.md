@@ -9,7 +9,7 @@
 </br>
 
 <div style="text-align:center">
-  <img src="./assets/osiLayer.jpg"/>
+  <img src="../assets/osiLayer.jpg"/>
 </div>
 
 <p>OSI merupakan singkatan dari "Open System Interconnection. Ini adalah kerangka kerja atau model yang digunakan untuk menggambarkan cara komunikasi jaringan komputer terjadi. OSI menggambarkan tujuh lapisan berbeda yang mencakup berbagai fungsi yang terlibat dalam komunikasi jaringan.</p>
@@ -81,7 +81,8 @@
   <li>
     Physical 
     <div>
-    Ini adalah lapisan terbawah yang bertanggung jawab atas transmisi sinyal fisik melalui media komunikasi, seperti kabel dan gelombang radio. Lapisan ini mengatur detail teknis seperti tegangan, frekuensi, dan jenis koneksi fisik antara perangkat.
+    Ini adalah lapisan terbawah yang bertanggung jawab atas transmisi sinyal fisik melalui media komunikasi.
     </div>
   </li>
 </ul>
+
