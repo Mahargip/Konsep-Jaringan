@@ -14,7 +14,7 @@ Klik source tersebut dan pada cari kolom "File Data" pada informasi source yang 
 ![enter image description here](../assets/ctf-1.png)
 
 Simpan file dengan ekstensi .jpeg
-![save](../assets/ctf-2)
+![save](../assets/ctf-2.png)
 
 Berikut gambar yang kita dapat :
-![success](../assets/ctf-3.png)
+![success](../assets/ctf-3.jpeg)
