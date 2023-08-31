@@ -22,7 +22,7 @@ Kita dapat melihat packet counter pada menubar Statistics, lalu pilih HTTP dan p
 ![ss](../assets/get-pc.png)
 
 Berikut packet counter dari source yang kita pilih :
- ![ss](../assets/pc.png)
+ ![ss](../assets/packet-counter.png)
 Pada gambar di atas, kita melihat tentang Total HTTP Packets yang berisi HTTP Request Packets dan HTTP Response Packets. 
 
 Seperti yang kita tahu, HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengirim permintaan dan menerima respons antara klien (seperti browser web) dan server web. Permintaan dari klien kepada server dalam bentuk HTTP request packet (paket permintaan HTTP). Ini adalah bagian penting dari komunikasi antara klien dan server web.
