@@ -8,3 +8,4 @@
 ## Traceroute
 ![ss tracert](../assets/tracert.png)
 **Traceroute** (atau tracert di lingkungan Windows) adalah perintah yang digunakan untuk melacak jalur yang dilewati oleh paket data dari satu perangkat ke perangkat lain di jaringan. Dengan menggunakan protokol ICMP atau UDP, perintah traceroute mengirimkan serangkaian paket data dengan TTL (Time To Live) yang bertambah secara berurutan. Setiap perangkat di jalur mengurangi TTL dan ketika TTL mencapai 0, perangkat tersebut mengirimkan pesan "Time Exceeded" kembali ke perangkat pengirim. Dengan menganalisis balasan dari setiap perangkat yang dilalui, traceroute membangun daftar hop atau node yang dilewati oleh paket data menuju tujuannya. Ini membantu untuk memahami rute dan latensi jaringan yang diambil oleh paket data.
+
