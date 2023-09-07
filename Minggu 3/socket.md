@@ -28,7 +28,7 @@ Terdapat dua jenis socket yang umum digunakan, yaitu `Socket Stream` dan `Socket
 -   Menerima sambungan dengan panggilan sistem `accept()`. Panggilan ini biasanya memblokir koneksi sampai client terhubung dengan server
 -   Mengirim dan menerima data menggunakan panggilan sistem `read()` dan `write()`
 
-![socket](../assets/socket-0.png)
+![socket](../assets/socket-00.png)
 
 
 
