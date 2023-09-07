@@ -69,7 +69,9 @@ Terdapat dua jenis socket yang umum digunakan, yaitu `Socket Stream` dan `Socket
  3. Buka halaman terminal baru atau komputer lain, lalu compile dan run file client.c
  4. Ketik pada terminal client.c dan akan keluar pada terminal server.c (dengan menambahkan kode inputan dari server.c, kita dapat berkomunikasi antar client dan server)
 
+
 **OUTPUT**
+
 ![server](../assets/socket-1.jpg)
 ![client](../assets/socket-2.jpg)
 ![client](../assets/socket-3.jpg)
