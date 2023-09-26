@@ -88,13 +88,17 @@ Dalam contoh pemrograman socket sederhana di mana client mengirim pesan ke serve
 > Mencari berapa banyak segmentasi dan panjang bytes yang dikirim pada sekali segmentasi pada transfer kata yang dikirim dari client ke server dengan mengikuti TCP Stream.
 
 Melakukan beberapa percobaan dengan mengirimkan beberapa length data yang dikirim dari client kemudian melihat berapa kali segmentasi terjadi.
+
 ![client](../assets/try1.jpg)
 ![server](../assets/try2.jpg)
 ![wireshark](../assets/try3.jpg)
+
 Seperti yang kita lihat dari salah satu segment di gambar terakhir bahwa setiap segmentasi membawa sebesar 256 bytes.
 
 Perlu diketahui bahwa segmentasi tidak selalu membawa sebesar 256 bytes, segmentasi tersebut juga bisa membawa sebesar 500 bytes, 1000 bytes seperti contoh di bawah :
+
 ![segment](../assets/try4.jpg)
+
 Kita bisa melihat terdapat segmentasi yang membawa sebesar 1400 bytes, 1300 bytes, 2800 bytes, 800 bytes, 100 bytes, dan lainnya.
 
 Salah satu alasan mengapa segmen-segmen dapat membawa jumlah byte yang berbeda adalah sebagai berikut:
