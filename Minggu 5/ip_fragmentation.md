@@ -41,8 +41,6 @@ Header IPv4 adalah bagian dari setiap paket IPv4 dan berisi informasi penting te
 
 ### **IP Delivery Model**:
 
-![ipv4](../assets/ipv4.png)
-
 
 IP Delivery Model menggambarkan bagaimana paket IP dikirimkan dari sumber ke tujuan. Ini beroperasi dengan cara berikut:
 
