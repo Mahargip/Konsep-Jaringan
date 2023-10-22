@@ -32,6 +32,7 @@
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
 **PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
+
 [<img src="../assets/switchlogo.png" width="600" height="300"
 />](https://www.youtube.com/embed/qBt0-g1KnHU)
 
