@@ -4,6 +4,14 @@
 
 **PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
 
+
+
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-9aba-d69be75313fb
+
+
+
 [<img src="../assets/switchlogo.png" width="600" height="300"
 />](https://www.youtube.com/embed/7eLdtQx9q40)
 
