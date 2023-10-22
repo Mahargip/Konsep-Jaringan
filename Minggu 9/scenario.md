@@ -2,18 +2,9 @@
 
 ## Switch
 
-**PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
-
-
-
-
+**PC0-PC1** 
 
 https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-9aba-d69be75313fb
-
-
-
-[<img src="../assets/switchlogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/7eLdtQx9q40)
 
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 1 (192.168.1.3)**
@@ -25,10 +16,13 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
     -   Paket melewati Switch 1 dan mencapai PC 1.
     -   PC 1 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC2** *(CLICK IMAGE FOR VIDEO)*
+**PC0-PC2** 
 
-[<img src="../assets/switchlogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/G49Zi6WcPmI)
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/da09fdc0-4e84-4094-a9e7-7e7761f09e3a
+
+
 
  **PC 0 (192.168.1.2) melakukan ping ke PC 2 (192.168.6.2)**
     
@@ -39,10 +33,13 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
     -   Paket melewati Switch 1, Router 1, dan Switch 2, mencapai PC 2.
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
+**PC0-PC3** 
 
-[<img src="../assets/switchlogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/qBt0-g1KnHU)
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/a3b36c0e-e31d-4ef5-89f7-413316181da7
+
+
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
     
@@ -58,10 +55,13 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
 
 ## Hub
 
-**PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
+**PC0-PC1** 
 
-[<img src="../assets/hublogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/muCSgqRCRAc)
+
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/710b0fcd-85c6-41c8-88e1-b7edbd53bf11
+
 
 
  **PC 0 (192.168.1.2) melakukan ping ke PC 1 (192.168.1.3)**
@@ -74,10 +74,13 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
     -   Paket tersebut melewati Hub 0 dan mencapai PC 1.
     -   PC 1 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC2** *(CLICK IMAGE FOR VIDEO)*
+**PC0-PC2** 
 
-[<img src="../assets/hublogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/T_i8JdH4ziA)
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/68113c0a-9c27-414a-b15a-f8c2cba2c18f
+
+
 
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 2 (192.168.6.2)**
@@ -90,10 +93,13 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
     -   Paket tersebut melewati Hub 0, Router1, dan Hub 1, mencapai PC 2.
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
+**PC0-PC3**
 
-[<img src="../assets/hublogo.png" width="600" height="300"
-/>](https://www.youtube.com/embed/Pp9ysNTPoIs)
+
+
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/7f2ed67f-c772-4f1f-a5d2-7c0e8c74a37b
+
+
 
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
