@@ -4,7 +4,7 @@
 
 **PC0-PC1
 
-[<iframe width="600" height="300" src="https://www.youtube.com/embed/7eLdtQx9q40" title="switch pc0-pc1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]
+<iframe width="600" height="300" src="https://www.youtube.com/embed/7eLdtQx9q40" title="switch pc0-pc1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 1 (192.168.1.3)**
     
