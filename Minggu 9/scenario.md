@@ -2,7 +2,7 @@
 
 ## Switch
 
-**PC0-PC1** *CLICK IMAGE FOR VIDEO*
+**PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
 
 [<img src="../assets/switchlogo.png" width="600" height="300"
 />](https://www.youtube.com/embed/7eLdtQx9q40)
@@ -17,8 +17,10 @@
     -   Paket melewati Switch 1 dan mencapai PC 1.
     -   PC 1 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC2**
-<iframe width="600" height="300" src="https://www.youtube.com/embed/G49Zi6WcPmI" title="switch pc0-pc2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**PC0-PC2** *(CLICK IMAGE FOR VIDEO)*
+
+[<img src="../assets/switchlogo.png" width="600" height="300"
+/>](https://www.youtube.com/embed/G49Zi6WcPmI)
 
  **PC 0 (192.168.1.2) melakukan ping ke PC 2 (192.168.6.2)**
     
@@ -29,8 +31,9 @@
     -   Paket melewati Switch 1, Router 1, dan Switch 2, mencapai PC 2.
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC3**
-<iframe width="600" height="300" src="https://www.youtube.com/embed/qBt0-g1KnHU" title="switch pc0-pc3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
+[<img src="../assets/switchlogo.png" width="600" height="300"
+/>](https://www.youtube.com/embed/qBt0-g1KnHU)
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
     
@@ -46,7 +49,7 @@
 
 ## Hub
 
-**PC0-PC1**
+**PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
 <iframe width="600" height="300" src="https://www.youtube.com/embed/muCSgqRCRAc" title="Hub pc0-pc1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  **PC 0 (192.168.1.2) melakukan ping ke PC 1 (192.168.1.3)**
@@ -59,7 +62,7 @@
     -   Paket tersebut melewati Hub 0 dan mencapai PC 1.
     -   PC 1 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC2**
+**PC0-PC2** *(CLICK IMAGE FOR VIDEO)*
 <iframe width="600" height="300" src="https://www.youtube.com/embed/T_i8JdH4ziA" title="hub pc0-pc2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 2 (192.168.6.2)**
@@ -72,7 +75,7 @@
     -   Paket tersebut melewati Hub 0, Router1, dan Hub 1, mencapai PC 2.
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
-**PC0-PC3**
+**PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
 <iframe width="600" height="300" src="https://www.youtube.com/embed/Pp9ysNTPoIs" title="hub pc0-pc3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
