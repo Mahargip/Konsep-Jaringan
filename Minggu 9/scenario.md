@@ -51,7 +51,10 @@
 ## Hub
 
 **PC0-PC1** *(CLICK IMAGE FOR VIDEO)*
-<iframe width="600" height="300" src="https://www.youtube.com/embed/muCSgqRCRAc" title="Hub pc0-pc1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[<img src="../assets/hublogo.png" width="600" height="300"
+/>](https://www.youtube.com/embed/muCSgqRCRAc)
+
 
  **PC 0 (192.168.1.2) melakukan ping ke PC 1 (192.168.1.3)**
     
@@ -64,7 +67,10 @@
     -   PC 1 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
 **PC0-PC2** *(CLICK IMAGE FOR VIDEO)*
-<iframe width="600" height="300" src="https://www.youtube.com/embed/T_i8JdH4ziA" title="hub pc0-pc2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[<img src="../assets/hublogo.png" width="600" height="300"
+/>](https://www.youtube.com/embed/T_i8JdH4ziA)
+
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 2 (192.168.6.2)**
     
@@ -77,7 +83,10 @@
     -   PC 2 membalas dengan paket ICMP echo reply, mengkonfirmasi komunikasi yang berhasil.
 
 **PC0-PC3** *(CLICK IMAGE FOR VIDEO)*
-<iframe width="600" height="300" src="https://www.youtube.com/embed/Pp9ysNTPoIs" title="hub pc0-pc3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[<img src="../assets/hublogo.png" width="600" height="300"
+/>](https://www.youtube.com/embed/Pp9ysNTPoIs)
+
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
     
