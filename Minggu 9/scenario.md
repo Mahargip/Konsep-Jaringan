@@ -19,8 +19,8 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/60f600ff-784e-4c68-
 **PC0-PC2** 
 
 
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/a3b36c0e-e31d-4ef5-89f7-413316181da7
 
-https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/da09fdc0-4e84-4094-a9e7-7e7761f09e3a
 
 
 
@@ -35,9 +35,9 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/da09fdc0-4e84-4094-
 
 **PC0-PC3** 
 
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/da09fdc0-4e84-4094-a9e7-7e7761f09e3a
 
 
-https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/a3b36c0e-e31d-4ef5-89f7-413316181da7
 
 
 
@@ -78,7 +78,8 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/710b0fcd-85c6-41c8-
 
 
 
-https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/68113c0a-9c27-414a-b15a-f8c2cba2c18f
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/7f2ed67f-c772-4f1f-a5d2-7c0e8c74a37b
+
 
 
 
@@ -97,9 +98,8 @@ https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/68113c0a-9c27-414a-
 
 
 
-https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/7f2ed67f-c772-4f1f-a5d2-7c0e8c74a37b
 
-
+https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/68113c0a-9c27-414a-b15a-f8c2cba2c18f
 
 
   **PC 0 (192.168.1.2) melakukan ping ke PC 3 (192.168.6.3)**
