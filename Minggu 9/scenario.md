@@ -2,9 +2,7 @@
 
 ## Switch
 
-**PC0-PC1**
-
-*CLICK IMAGE FOR VIDEO*
+**PC0-PC1** *CLICK IMAGE FOR VIDEO*
 
 [<img src="../assets/switchlogo.png" width="600" height="300"
 />](https://www.youtube.com/embed/7eLdtQx9q40)
