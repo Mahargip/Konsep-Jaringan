@@ -31,9 +31,3 @@ Nah karena sudah dapat hasil perhitungannya, kita bisa langsung membuatnya di Pa
 
 ![subnet](../assets/subnet.png)
 
-Berikut adalah hasilnya setelah konfigurasi semua komponen :
-
-
-
-https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/d963a55a-1216-4af6-83c6-8ce0f283cec0
-
