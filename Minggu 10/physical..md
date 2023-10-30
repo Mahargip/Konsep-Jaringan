@@ -1,9 +1,9 @@
 # Physical Design Mikrotik
 
+Configurasi :
+
 ![image](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/9d8ca7bd-e06e-4206-ad50-2260f184ef0e)
 
-
-Configurasi :
 
 ## **1. Router 0**
     - Static
