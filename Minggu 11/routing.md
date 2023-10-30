@@ -25,3 +25,8 @@ Pada *Routing* terdapat sebutan *Edge Router* dan *Core Router*.
 -   Core router, juga dikenal sebagai router inti, berada di dalam jaringan dan digunakan untuk menghubungkan jaringan-jaringan dalam infrastruktur jaringan yang lebih besar.
 -   Core router bertanggung jawab untuk mengarahkan lalu lintas data di dalam jaringan dan memutuskan jalur yang paling efisien untuk mengirim data antara berbagai jaringan atau subnet.
 -   Mereka biasanya terletak di pusat jaringan dan digunakan untuk mengelola lalu lintas data dalam skala yang sangat besar. Core router harus memiliki kapasitas pemrosesan yang tinggi dan sangat andal.
+
+
+Router PENS :
+![image](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/c9ae1f89-2712-4809-bda3-caf47927a89f)
+
