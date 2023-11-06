@@ -1,5 +1,6 @@
 ## Dynamic Routing
 
+![image](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/32e19365-48e7-4d2f-99e1-0c32255eb73e)
 
 ### Pengertian
 Routing adalah sebuah proses untuk meneruskan paket-paket jaringan dari satu jaringan ke jaringan lainnya melalui sebuah internetwork. Routing juga dapat merujuk kepada sebuah metode penggabungan beberapa jaringan sehingga paket-paket data dapat hinggap dari satu jaringan ke jaringan selanjutnya. Untuk melakukan hal ini, digunakanlah sebuah perangkat jaringan yang disebut sebagai router. Router- router tersebut akan menerima paket-paket yang ditujukan ke jaringan di luar jaringan yang pertama, dan akan meneruskan paket yang ia terima kepada router lainnya hingga sampai kepada tujuannya.
