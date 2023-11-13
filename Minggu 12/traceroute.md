@@ -3,6 +3,8 @@
 
 ### Traceroute 1.1.1.1 dan detik.com
 
+![WhatsApp Image 2023-11-07 at 15 31 10_0242fa68](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/5f3fa639-63c6-4715-b4d5-7993cd2c5f9c)
+
 
 ### Penjelasan
 Output dari perintah `traceroute` menunjukkan jalur yang diambil oleh paket data dari komputer Anda menuju tujuan yang ditentukan (dalam kasus ini, tujuan adalah 1.1.1.1 dan detik.com). Berikut adalah penjelasan singkat dari output tersebut:
