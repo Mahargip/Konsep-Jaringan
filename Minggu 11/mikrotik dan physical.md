@@ -2,7 +2,8 @@
 
 ## Physical dan Logical 
 
-![WhatsApp Image 2023-10-31 at 15 56 56_4163fcc9](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/31e10cfa-f737-4f79-8f02-e0eeef29d386)
+![WhatsApp Image 2023-11-14 at 14 57 28_50405418](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/b89c28f2-29b1-4278-a5d9-4a7abf8c2053)
+
 
 ![WhatsApp Image 2023-11-14 at 14 56 56_153777a7](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/3a42cf49-2ec3-4636-a269-272567f66af2)
 
