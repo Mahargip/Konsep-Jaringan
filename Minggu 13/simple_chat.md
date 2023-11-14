@@ -3,13 +3,13 @@ Simple Server-Client Using Socket Programming with C.
 
 ## Server
 
-![To Group 6](../assets/client1.png)
+![To Group 6](../assets/server1.png)
 
 ## Client
 
-![To Group 4](../assets/server1.png)
+![To Group 4](../assets/client1.png)
 
-![To Group 4](../assets/server2.png)
+![To Group 4](../assets/client2.png)
 
 ## Code
 
