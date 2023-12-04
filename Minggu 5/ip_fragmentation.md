@@ -1,4 +1,7 @@
 
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
+
 # IP FRAGMENTATION
   
 ### **IP Service Model**:
