@@ -1,3 +1,6 @@
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
 # Menganalisis Flow Graph dari Sample http.cap
 
 Pada fitur Flow Graph, kita dapat melihat bagaimana proses dari Connection Establishment, Data Transfer, dan Connection Termination dari sebuah source.
