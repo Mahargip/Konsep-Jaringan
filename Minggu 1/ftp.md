@@ -1,3 +1,6 @@
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
 <h1>Mengapa FTP dapat Memakai TCP/UDP</h1>
 
 </br>
