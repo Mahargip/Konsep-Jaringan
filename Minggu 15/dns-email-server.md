@@ -30,4 +30,4 @@ DNS dan email server memiliki fungsi yang penting dalam internet. DNS memungkink
 
 Ketika DNS atau email server tidak berfungsi, maka pengguna tidak akan dapat mengakses situs web atau mengirim dan menerima email.
 
-
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
