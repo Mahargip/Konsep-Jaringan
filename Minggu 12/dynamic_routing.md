@@ -1,3 +1,6 @@
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
 ## Dynamic Routing
 
 ![image](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/32e19365-48e7-4d2f-99e1-0c32255eb73e)
