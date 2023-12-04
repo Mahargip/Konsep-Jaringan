@@ -1,3 +1,6 @@
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
 Powerpoint Slide about Wi-Fi Technologies:
 
 ![0](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/34793829-d531-4207-80ff-0533a11c3260)
