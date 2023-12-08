@@ -1,3 +1,6 @@
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
+
 # Tipe Arsitektur Jaringan di Kampus
 
 ![campus-network](https://github.com/Mahargip/Konsep-Jaringan/assets/114201452/113e6c42-8940-481b-8e64-b4df29594820)
