@@ -1,3 +1,6 @@
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
+
+
 # Cara Kerja DNS
 
 DNS, atau Domain Name System, adalah sistem yang menghubungkan nama domain dengan alamat IP. Nama domain adalah alamat yang mudah diingat untuk situs web atau layanan online lainnya, seperti email. Alamat IP adalah alamat numerik yang digunakan oleh komputer untuk berkomunikasi satu sama lain.
